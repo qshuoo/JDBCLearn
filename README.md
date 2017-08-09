@@ -8,3 +8,5 @@ learn  jdbc
 4、建立链接
 	Connection connection = 
 	DriverManager.getConnection("jdbc:mysql://host:port/database", "user", "password");
+5、执行SQL语句
+	
