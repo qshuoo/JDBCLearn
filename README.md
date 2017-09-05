@@ -1,12 +1,12 @@
 # JDBCLearn     
 learn  jdbc        
     
-1¡¢µ¼Èëmysql-connector-java-version-bin.jar °ü          
-2¡¢±àĞ´²âÊÔÀà         
-3¡¢¼ÓÔØÇı¶¯Àà        
+1ã€å¯¼å…¥mysql-connector-java-version-bin.jar åŒ…          
+2ã€ç¼–å†™æµ‹è¯•ç±»         
+3ã€åŠ è½½é©±åŠ¨ç±»        
 	Class.forName("com.mysql.jdbc.Driver");     
-4¡¢½¨Á¢Á´½Ó        
+4ã€å»ºç«‹é“¾æ¥        
 	Connection connection =       
 	DriverManager.getConnection("jdbc:mysql://host:port/database", "user", "password");      
-5¡¢Ö´ĞĞSQLÓï¾ä         
-	
+5ã€æ‰§è¡ŒSQLè¯­å¥         
+6.å…³æœºç¡è§‰
